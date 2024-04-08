@@ -52,6 +52,7 @@ data_auth.json
 data_clear.json
 sample_employees_csv.csv
 web.config
+wp-config.phpold
 wp-config.php-backup
 .wp-config.php.swp
 wp-config-sample.php
